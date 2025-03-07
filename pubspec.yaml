@@ -26,7 +26,6 @@ dependencies:
     git:
       url: git@github.com:Acuari0/info_x.git
       ref: master
-  flexidate: ^0.8.0+3
   dartxx: 
     git:
       url: https://github.com/Acuari0/dartxx.git
