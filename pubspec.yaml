@@ -24,7 +24,10 @@ dependencies:
   platform_detect2: ^1.5.0+2
   info_x: ^0.8.0+3
   flexidate: ^0.8.0+3
-  dartxx: ^0.5.5
+  dartxx: 
+    git:
+      url: https://github.com/Acuari0/dartxx.git
+      ref: master
 dev_dependencies: 
   flutter_test: 
     sdk: flutter
