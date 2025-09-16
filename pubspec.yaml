@@ -9,20 +9,23 @@ dependencies:
   chunked_stream: ^1.4.1
   collection: ^1.17.2
   crypto: ^3.0.3
-  equatable: ^2.0.5
+  equatable: 
   phone_numbers_parser: ^7.0.2
-  intl: ^0.18.1
+  intl: 
   logging: 1.2.0
   meta: ^1.9.1
   pedantic: ^1.11.1
   recase: ^4.1.0
   stream_transform: ^2.1.0
-  timezone: ^0.8.0
+  timezone: 
   uuid: ^3.0.7
   inflection3: ^0.5.3+2
   uri: ^1.0.0
   platform_detect2: ^1.5.0+2
-  flexidate: ^0.8.0+3
+  flexidate:
+    git:
+      url: https://github.com/WorkNedoPrograMax/flexidate.git
+      ref: 0c8fe91689847f7768da925c304046d726f0963a
   info_x:
     git:
       url: git@github.com:Acuari0/info_x.git
