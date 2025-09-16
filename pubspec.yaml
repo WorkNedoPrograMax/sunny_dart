@@ -28,8 +28,8 @@ dependencies:
       ref: 0c8fe91689847f7768da925c304046d726f0963a
   info_x:
     git:
-      url: git@github.com:Acuari0/info_x.git
-      ref: master
+      url: https://github.com/WorkNedoPrograMax/info_x.git
+      ref: 4b4d618132bd9302bcd141a9df2dc78baa77b07d
   dartxx: 
     git:
       url: https://github.com/WorkNedoPrograMax/dartxx.git
